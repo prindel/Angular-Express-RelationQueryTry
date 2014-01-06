@@ -1,0 +1,10 @@
+﻿{
+  "name": "NodejsApp2",
+  "version": "0.0.0",
+  "description": "NodejsApp2",
+  "main": "server.js",
+  "author": {
+    "name": "Who",
+    "email": ""
+  }
+}
